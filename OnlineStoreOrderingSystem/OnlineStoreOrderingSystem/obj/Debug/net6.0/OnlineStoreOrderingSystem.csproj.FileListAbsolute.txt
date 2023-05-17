@@ -1,0 +1,15 @@
+D:\Dev\DP\OnlineStoreOrderingSystem\OnlineStoreOrderingSystem\bin\Debug\net6.0\OnlineStoreOrderingSystem.exe
+D:\Dev\DP\OnlineStoreOrderingSystem\OnlineStoreOrderingSystem\bin\Debug\net6.0\OnlineStoreOrderingSystem.deps.json
+D:\Dev\DP\OnlineStoreOrderingSystem\OnlineStoreOrderingSystem\bin\Debug\net6.0\OnlineStoreOrderingSystem.runtimeconfig.json
+D:\Dev\DP\OnlineStoreOrderingSystem\OnlineStoreOrderingSystem\bin\Debug\net6.0\OnlineStoreOrderingSystem.dll
+D:\Dev\DP\OnlineStoreOrderingSystem\OnlineStoreOrderingSystem\bin\Debug\net6.0\OnlineStoreOrderingSystem.pdb
+D:\Dev\DP\OnlineStoreOrderingSystem\OnlineStoreOrderingSystem\obj\Debug\net6.0\OnlineStoreOrderingSystem.csproj.AssemblyReference.cache
+D:\Dev\DP\OnlineStoreOrderingSystem\OnlineStoreOrderingSystem\obj\Debug\net6.0\OnlineStoreOrderingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\DP\OnlineStoreOrderingSystem\OnlineStoreOrderingSystem\obj\Debug\net6.0\OnlineStoreOrderingSystem.AssemblyInfoInputs.cache
+D:\Dev\DP\OnlineStoreOrderingSystem\OnlineStoreOrderingSystem\obj\Debug\net6.0\OnlineStoreOrderingSystem.AssemblyInfo.cs
+D:\Dev\DP\OnlineStoreOrderingSystem\OnlineStoreOrderingSystem\obj\Debug\net6.0\OnlineStoreOrderingSystem.csproj.CoreCompileInputs.cache
+D:\Dev\DP\OnlineStoreOrderingSystem\OnlineStoreOrderingSystem\obj\Debug\net6.0\OnlineStoreOrderingSystem.dll
+D:\Dev\DP\OnlineStoreOrderingSystem\OnlineStoreOrderingSystem\obj\Debug\net6.0\refint\OnlineStoreOrderingSystem.dll
+D:\Dev\DP\OnlineStoreOrderingSystem\OnlineStoreOrderingSystem\obj\Debug\net6.0\OnlineStoreOrderingSystem.pdb
+D:\Dev\DP\OnlineStoreOrderingSystem\OnlineStoreOrderingSystem\obj\Debug\net6.0\OnlineStoreOrderingSystem.genruntimeconfig.cache
+D:\Dev\DP\OnlineStoreOrderingSystem\OnlineStoreOrderingSystem\obj\Debug\net6.0\ref\OnlineStoreOrderingSystem.dll
